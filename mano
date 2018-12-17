@@ -12,9 +12,9 @@
 </head>
 <body>
 
-<div class="container-fluid">
-    <a>Pirmas</a> <br>
-    <a href="receptai.html">Antras</a> <br>
+<div= class="container-fluid">
+    <a href="pirmas]/receptai.html">Pirmas</a> <br>
+    <a href="antras/receptai.html">Antras</a> <br>
     <a>Trecias</a> <br>
 </div>
 
