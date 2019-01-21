@@ -1,0 +1,17 @@
+.divv{
+    background-color: salmon;
+    border: 10px solid black;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    float: left;
+}
+.divv2{
+    margin: auto;
+    height: 310px;
+    width: 900px;
+}
+.nuotrauka{
+    height: 300px;
+    width: 450px;
+}
